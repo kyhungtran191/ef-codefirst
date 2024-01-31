@@ -1,4 +1,6 @@
-﻿namespace EFCore_CodeFirst.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace EFCore_CodeFirst.Models
 {
     public class Category
     {
